@@ -22,7 +22,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Los_Angeles
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -50,7 +50,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 13:39:45 UTC
+ Last Updated on 10/03/2023 13:51:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
