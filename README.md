@@ -17,6 +17,40 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Verilog                  2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+
+ Last Updated on 10/03/2023 13:33:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
