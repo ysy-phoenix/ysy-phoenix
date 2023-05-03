@@ -37,20 +37,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in C++** 
 
 ```text
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Verilog                  2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Cuda                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Verilog                  2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Cuda                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 02/05/2023 00:25:18 UTC
+ Last Updated on 03/05/2023 00:25:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
