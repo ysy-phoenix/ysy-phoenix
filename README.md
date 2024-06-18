@@ -17,7 +17,7 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,7 +60,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 00:30:13 UTC
+ Last Updated on 18/06/2024 00:28:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
