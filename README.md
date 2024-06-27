@@ -25,16 +25,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NSFC                     39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +50,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2024 00:28:25 UTC
+ Last Updated on 27/06/2024 00:28:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
