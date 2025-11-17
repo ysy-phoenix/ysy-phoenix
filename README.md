@@ -17,6 +17,8 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C928%20hrs%2039%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -57,7 +59,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 00:44:23 UTC
+ Last Updated on 17/11/2025 00:42:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
