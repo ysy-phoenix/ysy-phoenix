@@ -25,16 +25,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     2 mins              █████████████░░░░░░░░░░░░   53.18 % 
+Python                   2 mins              ████████████░░░░░░░░░░░░░   46.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+amlt_ws06                4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +51,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 00:55:22 UTC
+ Last Updated on 21/02/2026 00:54:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
