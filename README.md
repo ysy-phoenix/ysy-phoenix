@@ -17,7 +17,7 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C068%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C069%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,42 +25,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ██████████████░░░░░░░░░░░   57.25 % 
-Bash                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-TeX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   4 hrs 38 mins       ███████████████░░░░░░░░░░   59.03 % 
+Bash                     1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+TOML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 51 mins       █████████████████████████   98.70 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Cursor                   7 hrs 46 mins       █████████████████████████   98.97 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🐱‍💻 Projects: 
-Megatron-LM              1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-dataforge                1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-evalsuite                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Megatron-LM-Eval-Yang    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-count_token              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Megatron-LM              2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+dataforge                1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+evalsuite                50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+count_token              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Megatron-LM-Eval-Yang    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Linux                    7 hrs 17 mins       ███████████████████████░░   91.55 % 
-Mac                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Linux                    6 hrs 59 mins       ██████████████████████░░░   89.09 % 
+Mac                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ████████████████░░░░░░░░░   65.52 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   37 repos            ████████████████░░░░░░░░░   64.91 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 00:52:49 UTC
+ Last Updated on 11/03/2026 00:53:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
