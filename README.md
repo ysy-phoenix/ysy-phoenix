@@ -17,7 +17,7 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,41 +25,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ███████████████░░░░░░░░░░   59.80 % 
-Other                    58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-TOML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-SSH Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   3 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.89 % 
+Other                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+C++                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 53 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Megatron-LM              2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.28 % 
-ltp                      1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   35.41 % 
-coding                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-gram-newton-schulz       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+ltp                      2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.95 % 
+Megatron-LM              2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
+flash-attention          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+coding                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+gram-newton-schulz       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Mac                      4 hrs 35 mins       ███████████████████████░░   93.99 % 
-Linux                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Mac                      6 hrs 50 mins       ████████████████████████░   95.50 % 
+Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   38 repos            ████████████████░░░░░░░░░   65.52 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   34 repos            ████████████████░░░░░░░░░   62.96 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 09/04/2026 00:57:55 UTC
+ Last Updated on 10/04/2026 01:08:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
