@@ -17,6 +17,8 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C097%20hrs%2039%20mins-blue?style=flat)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +32,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 01:47:16 UTC
+ Last Updated on 16/05/2026 01:27:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
