@@ -17,26 +17,6 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2054%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-YAML                     36 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Cursor                   36 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ltp                      36 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -50,7 +30,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 01:29:04 UTC
+ Last Updated on 29/05/2026 01:51:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
