@@ -17,20 +17,48 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C116%20hrs%2055%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 33 mins       ██████████████░░░░░░░░░░░   54.48 % 
+Bash                     1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 5 mins        ███████████████████████░░   93.30 % 
+Cursor                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+
+🐱‍💻 Projects: 
+backbone-scripts         5 hrs 54 mins       ███████████████████████░░   90.63 % 
+ltp                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+ssh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+
+💻 Operating System: 
+Linux                    5 hrs 54 mins       ███████████████████████░░   90.63 % 
+Mac                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ████████████████░░░░░░░░░   62.96 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   34 repos            ███████████████░░░░░░░░░░   61.82 % 
+Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 01:51:09 UTC
+ Last Updated on 30/05/2026 01:47:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
