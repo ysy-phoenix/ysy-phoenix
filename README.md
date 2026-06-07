@@ -17,7 +17,23 @@
 - [My Blog](https://ysy-phoenix.github.io/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C119%20hrs%2018%20mins-blue?style=flat)
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -32,7 +48,7 @@ Vim Script               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 01:49:35 UTC
+ Last Updated on 07/06/2026 02:02:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
